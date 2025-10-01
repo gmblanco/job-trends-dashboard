@@ -30,7 +30,7 @@ Este proyecto es una aplicación web para visualizar tendencias del mercado labo
 - Añadir funcionalidades adicionales y filtros interactivos.
 - Permitir filtrar por sector, región y habilidades.
 
-### Fase 4 – Optimización y documentación
+### Fase 4 – Optimización y despliegue
 - Mejorar la usabilidad y el diseño.
 - Preparar la documentación del proyecto.
 - Finalizar el repositorio y el despliegue.
